@@ -1,0 +1,3 @@
+A project exploring my interesting in Neural Networks and following a tutorial from Max Rohowsky. This tutorial is closely related to an idea I had for a personal project so I am following this tutorial and exploring variations on the final product so learn more about genetic algorithms and how to apply them to create AI for games. I plan on expanding on this and creating a similar personal project once I am familiar with the principles and execution.
+
+Link to the tutorial video: https://www.youtube.com/watch?v=zsGvCwaaMOI
